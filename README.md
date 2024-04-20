@@ -71,3 +71,11 @@ React, TypeScript, Context API, Firebase, ESLint, Figma 등을 사용했습니�
 3. [x] netlify 등을 이용한 정적 페이지 배포
 4. [x] [README.md](http://readme.md/) 파일 작성
     - [x] 팀원별로 구현한 부분 소개
+
+### 진행한 선택 요구사항
+
+- [x] TypeScript 사용
+- [x] 마이페이지의 사진 업로드 기능
+- [x] 로그인 기능 (Firebase를 활용한 구글 OAuth)
+- [x] 부재 신청시, 사유 기재 기능
+- [x] eslint 설정
