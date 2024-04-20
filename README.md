@@ -2,7 +2,7 @@
 
 [배포사이트](https://kdt8-toyproject-group3.netlify.app/login)  
 인트라넷 서비스를 제작했습니다.  
-React, TypeScript, Firebase, ESLint, Figma 등을 사용했습니다.
+React, TypeScript, Context API, Firebase, ESLint, Figma 등을 사용했습니다.
 
 ---
 
