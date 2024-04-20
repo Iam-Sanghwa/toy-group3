@@ -29,7 +29,7 @@ React, TypeScript, Firebase, ESLint, Figma 등을 사용했습니다.
 
 #### 1. Dashboard
 
-![DashBoard](./public/images/readme/header.png)
+![DashBoard](./public/images/readme/Dashboard.png)
 
 #### 2. Vacation
 
